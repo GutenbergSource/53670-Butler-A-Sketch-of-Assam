@@ -1,0 +1,25 @@
+
+.adAuthor {
+    font-size: larger;
+    text-align: center;
+}
+
+.adTitle {
+    font-size: larger;
+    font-weight: bold;
+}
+
+.adDescription {
+
+}
+
+.adAvailability {
+    font-size: smaller;
+    text-align: right;
+}
+
+.adReview {
+    margin-left: 2em;
+    margin-right: 2em;
+    font-size: smaller;
+}

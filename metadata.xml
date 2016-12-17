@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+   <rdf:Description>
+      <dc:title>A Sketch of Assam: With Some Account of the Hill Tribes</dc:title>
+      <dc:creator>John Butler</dc:creator>
+      <dc:publisher>Project Gutenberg, Urbana, Illinois, USA., 2016-12-05</dc:publisher>
+      <dc:date>2016-12-05</dc:date>
+      <dc:rights>This eBook is for the use of anyone anywhere at no cost and with almost no restrictions whatsoever. You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this eBook or online at www.gutenberg.org.
+This eBook is produced by the Online Distributed Proofreading Team at www.pgdp.net.
+Prepared from scans made available by the Staatsbibliothek zu Berlin (Copy 1).
+</dc:rights>
+      <dc:subject>Ethnology</dc:subject>
+      <dc:subject>Social life and customs</dc:subject>
+      <dc:subject>Assam</dc:subject>
+      <dc:subject>Assam (India)</dc:subject>
+      <dc:subject>India</dc:subject>
+      <dc:description>This travelogue from 1847 gives a first impression of Assam at that time. The lovely hand-colorer illustrations make this book a little gem.</dc:description>
+      <dc:identifier>pg:53670</dc:identifier>
+   </rdf:Description>
+</rdf:RDF>
